@@ -1,7 +1,6 @@
 # NC2-Catch-the-word-3D
 
 
-## App Information
 <br>3D로 입체화된 입체화된 한글 단어를 유추해내는 게임입니다.
 <br>편안한 공간 속에서 어린이는 공간지각능력과 집중력을 발달시킬 수 있으며 스마트폰 혹은 아이패드와 함께 동작합니다.
 <br>여러분도 아래 영상을 보고 단어를 알아맞춰보세요.
@@ -18,7 +17,7 @@
 
 ## Prototype AR
 
-https://user-images.githubusercontent.com/103024780/189875276-039bdc75-6c14-419b-b82f-14fe82a3a57c.mov
+<img width = "700" src = "https://user-images.githubusercontent.com/103024780/189875276-039bdc75-6c14-419b-b82f-14fe82a3a57c.mov">
 
 https://user-images.githubusercontent.com/103024780/189874804-032585bf-805e-4cc2-99e1-f3a7e535032a.mov
 
