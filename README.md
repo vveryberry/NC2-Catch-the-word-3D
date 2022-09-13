@@ -14,10 +14,7 @@
 
 |1.mov|2.mov|
 |----|----|
-|<img width= "300" src = "https://user-images.githubusercontent.com/103024780/189877678-c7ad1c67-3629-4f99-8cc3-fd838eeaee0a.mov">|
-
-
-https://user-images.githubusercontent.com/103024780/189877678-c7ad1c67-3629-4f99-8cc3-fd838eeaee0a.mov
+|<img width= "300" src = "https://user-images.githubusercontent.com/103024780/189877678-c7ad1c67-3629-4f99-8cc3-fd838eeaee0a.mov">|<img width= "300" src = "https://user-images.githubusercontent.com/103024780/189877728-80f2572f-f2aa-4cc9-a609-753d23336409.mov">|
 
 https://user-images.githubusercontent.com/103024780/189877728-80f2572f-f2aa-4cc9-a609-753d23336409.mov
 
