@@ -2,12 +2,12 @@
 
 
 ## App Information
-3D로 입체화된 입체화된 한글 단어를 유추해내는 게임입니다. \n
-편안한 공간 속에서 어린이는 공간지각능력과 집중력을 발달시킬 수 있으며 스마트폰 혹은 아이패드와 함께 동작합니다.
-여러분도 아래 영상을 보고 단어를 알아맞춰보세요.
-It is a game that infers three-dimensional Korean words that are three-dimensionalized in 3D.
-In a comfortable space(like home), children can develop spatial awareness and concentration, and work with a smartphone or iPad.
-Also, watch the video below and guess the words.
+<br>3D로 입체화된 입체화된 한글 단어를 유추해내는 게임입니다.
+<br>편안한 공간 속에서 어린이는 공간지각능력과 집중력을 발달시킬 수 있으며 스마트폰 혹은 아이패드와 함께 동작합니다.
+<br>여러분도 아래 영상을 보고 단어를 알아맞춰보세요.
+<br>It is a game that infers three-dimensional Korean words that are three-dimensionalized in 3D.
+<br>In a comfortable space(like home), children can develop spatial awareness and concentration, and work with a smartphone or iPad.
+<br>Also, watch the video below and guess the words.
 
 
 ## Prototype
