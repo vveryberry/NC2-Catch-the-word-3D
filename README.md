@@ -16,7 +16,7 @@
 
 |1.mov|2.mov|3.move|
 |----|----|----|
-|<img width= "300" src = "https://user-images.githubusercontent.com/103024780/189877678-c7ad1c67-3629-4f99-8cc3-fd838eeaee0a.mov">|<img width= "300" src = "https://user-images.githubusercontent.com/103024780/189877728-80f2572f-f2aa-4cc9-a609-753d23336409.mov">|<img width= "300" src = "https://user-images.githubusercontent.com/103024780/189877750-f200c1e4-3497-4cfb-9042-1fa72b9c6c10.mov">|
+|<video width= "300" src = "https://user-images.githubusercontent.com/103024780/189877678-c7ad1c67-3629-4f99-8cc3-fd838eeaee0a.mov">|<video width= "300" src = "https://user-images.githubusercontent.com/103024780/189877728-80f2572f-f2aa-4cc9-a609-753d23336409.mov">|<video width= "300" src = "https://user-images.githubusercontent.com/103024780/189877750-f200c1e4-3497-4cfb-9042-1fa72b9c6c10.mov">|
 
 ## Prototype AR
 
@@ -25,5 +25,3 @@
 |<img width = "400" src = "https://user-images.githubusercontent.com/103024780/189875276-039bdc75-6c14-419b-b82f-14fe82a3a57c.mov">|<img width = "400" src = "https://user-images.githubusercontent.com/103024780/189874804-032585bf-805e-4cc2-99e1-f3a7e535032a.mov">
 <br>이 단어의 정답은 풍선입니다.
 <br>The correct answer to this word is a 풍선.
-
-<br><video autoplay width = "400" src = "https://user-images.githubusercontent.com/103024780/189875276-039bdc75-6c14-419b-b82f-14fe82a3a57c.mov"></video>
