@@ -26,4 +26,4 @@
 <br>이 단어의 정답은 풍선입니다.
 <br>The correct answer to this word is a 풍선.
 
-<br><video width = "400" src = "https://user-images.githubusercontent.com/103024780/189875276-039bdc75-6c14-419b-b82f-14fe82a3a57c.mov" autoplay></video>
+<br><video autoplay width = "400" src = "https://user-images.githubusercontent.com/103024780/189875276-039bdc75-6c14-419b-b82f-14fe82a3a57c.mov"></video>
