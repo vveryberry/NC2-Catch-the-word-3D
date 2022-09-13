@@ -1,6 +1,7 @@
 # NC2-Catch-the-word-3D
 
-<img width="1167" alt="스크린샷 2022-09-13 오후 7 58 59" src="https://user-images.githubusercontent.com/103024780/189884370-68b685b7-c260-4405-ab06-4d8ff222ebb4.png">
+<img width="1166" alt="스크린샷 2022-09-13 오후 8 00 42" src="https://user-images.githubusercontent.com/103024780/189884712-31b5c951-0812-42c4-a7ae-c540eace7ed2.png">
+
 
 <br>안녕하세요 베리입니다.
 <br>3D로 입체화된 한글 단어를 유추해내는 게임입니다.
