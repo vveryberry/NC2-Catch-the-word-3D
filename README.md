@@ -3,7 +3,7 @@
 <br>
 <img width="100" alt="그룹 38" src="https://user-images.githubusercontent.com/103024780/189884979-d9f4022d-1bbc-43d0-9d5c-aaa4cd813ae3.png">
 
-<img width="735" alt="스크린샷 2022-09-13 오후 7 41 27" src="https://user-images.githubusercontent.com/103024780/189884850-7d153503-1bdd-4bb4-8741-a8449b13612e.png">
+<movie width="735" alt="스크린샷 2022-09-13 오후 7 41 27" src="https://user-images.githubusercontent.com/103024780/189884850-7d153503-1bdd-4bb4-8741-a8449b13612e.png">
 
 
 <br>안녕하세요 베리입니다.
@@ -35,7 +35,7 @@
 
   
 <br>이 단어의 정답은 풍선입니다.
-<br>The correct answer to this word is a 풍선.
+<br>The answer to this word is a 풍선.
 
   
  ## Tools🏏
